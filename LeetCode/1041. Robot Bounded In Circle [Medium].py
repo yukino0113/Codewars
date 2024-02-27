@@ -11,7 +11,7 @@ class Solution:
                     rotate -= 90
                 case '':
                     match rotate%90:
-                        case 0: 
+                        case 0:
 
 
 
